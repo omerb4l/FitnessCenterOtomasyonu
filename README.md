@@ -27,6 +27,7 @@ Bu proje, [Cem Baydoğan]([https://www.linkedin.com/in/cem-baydo%C4%9Fan-7b5b508
 ![Giriş Sayfası](./EkranGoruntuleri/loginPage.png)
 ![Admin Sayfası](./EkranGoruntuleri/DuyuruGonder.png)
 ![Kullanıcı Sayfası](./EkranGoruntuleri/motivasyonSozleri.png)
+Daha fazlası için Ekran Görüntüleri klasörünü inceleyebilirsiniz.
 
 
 ## Teşekkür
