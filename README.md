@@ -24,8 +24,10 @@ Bu proje, [Cem Baydoğan]([https://www.linkedin.com/in/cem-baydo%C4%9Fan-7b5b508
 - 
 
 ## Ekran Görüntüleri
-![Giriş Sayfası](./screenshots/giris-sayfasi.png)
-![Admin Paneli](./screenshots/admin-paneli.png)
+![Giriş Sayfası](./EkranGoruntuleri/loginPage.png)
+![Admin Sayfası](./EkranGoruntuleri/DuyuruGonder.png)
+![Kullanıcı Sayfası](./EkranGoruntuleri/motivasyonSozleri.png)
+
 
 ## Teşekkür
 Bu projeyi yönlendiren ve destekleyen sevgili hocalarım **Cem Baydoğan** ve **Hüseyin Alperen Dağdöğen**'e sonsuz teşekkür ederim. 
